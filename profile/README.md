@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/mekibaq/.github/main/profile/mekiba-banner.png" alt="mekiba: The Quantum Toolkit for Web3." width="100%">
+
 # mekiba
 
 **The Quantum Toolkit for Web3.** mekiba checks how exposed a wallet is to a future quantum computer and lets you try post-quantum cryptography in your browser.
